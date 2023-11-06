@@ -1,7 +1,6 @@
 ﻿# NMRS-POC-OMODS
-The first set of modules that are loaded into the NMRS POC.
-These set of modules are the most stable versions found on all NMRS POC installations.
+These sets of modules are required for the full functionality of NMRS POC but the modules are not bundles with the NMRS-POC war file.
+The modules whould be downloaded and copied to the .OpenMRS/modules folder after a new installation.
+Remember to restart the tomcat after copying the modules into the folder for the changes to be effective.
+
 Note that due to the dynamic nature of program reporting requirments and constant system review, these modules are periodically changed.
-Stable versions are 
-Click here to download the custom ui module:
-https://apinnigeria-my.sharepoint.com/personal/tnnakwe_phis3project_org_ng/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Ftnnakwe%5Fphis3project%5Forg%5Fng%2FDocuments%2Fcustomuinmrs%2D1%2E0%2E2%2Eomod&parent=%2Fpersonal%2Ftnnakwe%5Fphis3project%5Forg%5Fng%2FDocuments&ga=1

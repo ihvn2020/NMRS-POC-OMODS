@@ -3,7 +3,7 @@ These sets of modules are required for the full functionality of NMRS POC but th
 The  modules are:
 
 1. cdrsync-1.1.3-update.omod
-2. covidtbintegrator-1.0.0-SNAPSHOT.omod
+2. covidtbintegrator-2.0.0-SNAPSHOT.omod
 3. customuinmrs-1.0.2.omod (The size of this module exceeded gihub's limit, please click [here](https://ihvnigeria-my.sharepoint.com/:u:/g/personal/auji_ihvnigeria_org/EXmQALAwOJRHrLkCYuACH30BTMK3nYHS3FIeXFBJq6KG_A?e=TxriKc) to download it)
 4. dataquality-1.0.3.omod
 5. fpverification-1.0.1-SNAPSHOT.omod

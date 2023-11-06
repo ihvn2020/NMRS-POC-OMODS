@@ -17,9 +17,6 @@ The  modules are:
 13. openhmis.inventory-4.0.3.5-SNAPSHOT.omod
 14. patientqueueing-1.0.0.omod
 
+Note that due to the dynamic nature of program reporting requirments and constant system review, these modules are subject to changes.
 The modules should be downloaded and copied to the .OpenMRS/modules folder after a new installation.
 Remember to restart the tomcat after copying the modules into the folder for the changes to be effective.
-
-Note that due to the dynamic nature of program reporting requirments and constant system review, these modules are periodically changed.
-
-P.S
